@@ -89,8 +89,7 @@
 - 125.00MB、128.00MB、256.00MB
 
 ## 代码
-- 
-#include <iostream>
+- #include <iostream>
 #include <stdio.h>
 #include <cmath>
 using namespace std;
@@ -145,12 +144,10 @@ int main() {
 - ...
 
 ## 测试点信息
-- 
-测试点信息
+- 测试点信息
 3ms/680.00KB
 AC #1 Accepted, 得分 100.ok accepted
-- 
-测试点信息
+- 测试点信息
 3ms/720.00KB
 AC #1 Accepted, 得分 20.ok accepted
 3ms/680.00KB
@@ -161,8 +158,7 @@ AC #3 Accepted, 得分 20.ok accepted
 AC #4 Accepted, 得分 20.ok accepted
 3ms/684.00KB
 AC #5 Accepted, 得分 20.ok accepted
-- 
-测试点信息
+- 测试点信息
 4ms/728.00KB
 AC #1 Accepted, 得分 20.ok accepted
 3ms/680.00KB
